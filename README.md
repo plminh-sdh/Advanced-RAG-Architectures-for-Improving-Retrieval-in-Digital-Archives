@@ -126,7 +126,7 @@ Add the details to the `.env` file as:
 
 ## 6. Google Colab Users (Environment Variables via Secrets)
 
-If you are running this notebook on **Google Colab**, the `.env` file is **not required**. Instead, you should store all sensitive credentials using **Colab Secrets**, which are securely managed and automatically exposed as environment variables.
+If you are running the notebook on **Google Colab**, the `.env` file is **not required**. Instead, you should store all sensitive credentials using **Colab Secrets**, which are securely managed and automatically exposed as environment variables.
 
 1. Open your notebook in Google Colab.
 2. In the left sidebar, click the **🔑 Secrets** icon.
